@@ -48,7 +48,7 @@
     
     background: rgb(133,181,134);
 background: linear-gradient(90deg, rgba(133,181,134,1) 0%, rgba(106,111,106,1) 0%, rgba(151,195,194,1) 40%, rgba(60,187,185,1) 77%);
-height: 100vh;
+height: auto;
 }
 
 #links{
